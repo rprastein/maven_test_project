@@ -29,7 +29,7 @@
 		    </dependency>
 		  </dependencies>
 		</plugin>
-	  <plugins>
+	  </plugins>
 	</pluginManagement>
 </build>
   <dependencies>
